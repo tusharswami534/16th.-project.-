@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+* {
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+section {
+    height: 100vh;
+    justify-content: center;
+    justify-items: center;
+
+    align-items: center;
+    /* align-content: center; */
+    background-image: url(/assets/img/Image\ \(2\).png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+
+}
+
+.pt-60 {
+    padding-top: 60px;
+}
+
+
+.container {
+    max-width: 1000px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.svg {
+    text-align: center;
+    margin-bottom: 87px;
+}
+
+.footer {
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: center;
+    color: white;
+
+
+}
+
+.DM-Sans {
+
+    font-family: DM Sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 26px;
+
+
+}
+
+.DM-Sans1 {
+    font-family: DM Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31.25px;
+    letter-spacing: -0.2926828861236572px;
+    text-align: center;
+
+}
+
+.Sing {
+    background-color: #25DAC5;
+    width: 100px;
+    height: 40.1px;
+    border: 0px;
+    border-radius: 100px;
+
+
+
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.color-white {
+    color: white;
+}
+
+.ml-33 {
+    margin-left: 33px;
+}
+
+.mb70 {
+    margin-bottom: 70px;
+}
+
+.w-971 {
+    width: 971px;
+}
+
+.gap-33 {
+    gap: 33px;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+.header {
+    margin-right: 253px;
+}
+
+.head {
+
+    font-family: DM Sans;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: -1px;
+    text-align: center;
+    margin-bottom: 86px;
+    color: white;
+
+}
